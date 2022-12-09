@@ -1,7 +1,7 @@
 # Проект «Большое путешествие (простой)»
 
 * Студент: [Вячеслав IV](https://up.htmlacademy.ru/ecmascript/19/user/1479361).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений](https://htmlacademy.ru/profile/spearance).
 
 ---
 
